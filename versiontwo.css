@@ -1,0 +1,37 @@
+body {
+  position: absolute;
+  background-color: #FFC300;
+  font-family: courier;
+  font-size: 30px;
+}
+
+#red {
+  background-color: red;
+}
+
+h1.tight {
+  text-align: center;
+  border: 15px solid black;
+  border-radius: 20px;
+  background-color: #c145ff;
+  bottom: 25px;
+  right: 0px;
+}
+
+#box {
+  border: 10px solid green;
+  border-radius: 15px;
+  padding: 10px;
+  width: 300px;
+}
+
+p.define {
+  margin: 25px;
+  border: 15px solid #ffb8d2;
+}
+
+p.groove {
+  border-style: groove;
+  padding: 20px;
+  width: 400px;
+}

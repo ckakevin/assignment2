@@ -1,0 +1,31 @@
+body{
+  position:static;
+  background-color: #E10242;
+  color: white;
+}
+
+.change{
+  background-color: #609D00;
+  font-family: helvetica;
+  font-size: 20px;
+  border: 5px solid black;
+  padding-left: 10px;
+
+}
+
+#shift{
+  margin-left: 50px;
+  
+}
+
+#secondshift{
+  margin-left: 100px;
+}
+
+#thirdshift{
+  margin-left: 150px;
+}
+
+#fourthshift{
+  margin-left: 200px;
+}

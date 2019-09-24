@@ -1,0 +1,22 @@
+#color {
+  position: static;
+  margin-left: 300px;
+  padding: 100px;
+  background-color: #4CAF50;
+}
+
+.family {
+  font-family: helvetica;
+  color: white;
+}
+
+.size {
+  font-size: 50px;
+  border: solid black 10px;
+  width: 500px;
+  height: 3110px;
+}
+#viewing{
+  width: 450;
+  height: 520px;
+}

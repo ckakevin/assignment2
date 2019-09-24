@@ -1,0 +1,26 @@
+body {
+  position: absolute;
+  top: 45px;
+  background-color: #5095FC;
+  font-family: arial black;
+  font-size: 15px;
+}
+#design{
+  color: #C70039;
+}
+h1 {
+  text-align: center;
+  border: 25px solid white;
+  border-radius: 30px;
+  margin: 50px;
+  padding: 20px;
+  width: 450px;
+}
+
+
+p.define {
+  text-align: center;
+  margin: 32px;
+  border: 5px solid #FFC300;
+  border-style: double;
+}

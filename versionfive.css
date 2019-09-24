@@ -1,0 +1,33 @@
+
+body{
+  font-size: 60px;
+  margin-top: 20px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.column {
+  background-color: #2379E4;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 3500px;
+}
+
+.row:after {
+  display: table;
+  clear: both;
+}
+
+#hue{
+  background-color: #DE2017;
+  font-family: arial black;
+}
+#change{
+  text-align: center;
+  font-family: Helvetica;
+  position: static;
+
+}
