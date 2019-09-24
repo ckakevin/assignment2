@@ -1,0 +1,22 @@
+
+.design{
+  position: absolute;
+  background-color: pink;
+  border: solid white 5px;
+  height: 1000px;
+  width: 7000px;
+  font-family: arial;
+  font-size: 40px;
+}
+
+
+#black{
+  font-family: arial black;
+}
+
+#space{
+  margin-left: 50px;
+  padding-top: 10px;
+  bottom: auto;
+
+}
